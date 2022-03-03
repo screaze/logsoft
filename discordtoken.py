@@ -60,3 +60,6 @@ else:
     print(f'[LOG] Финальный результат: найдено {len(result)} токенов!')
     print('[LOG] Найти токены вы можете в папке с софтом.')
     
+input("[SYSTEM] Нажмите ENTER чтобы выйти в меню")
+os.system("clear")
+os.system("python main.py")
